@@ -1,0 +1,39 @@
+_repo: Korean-Folk-Tales-Imps-Ghosts-and-Faries_51002
+contributor:
+  translator:
+    agent_name: Gale, James Scarth
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '46192'
+    url: http://www.gutenberg.org/2009/agents/46192
+    wikipedia: https://en.wikipedia.org/wiki/James_Scarth_Gale
+creator:
+  authors:
+  - agent_name: Yi, Yuk
+    alias: 李陸
+    birthdate: 1438
+    deathdate: 1498
+    gutenberg_agent_id: '46191'
+    url: http://www.gutenberg.org/2009/agents/46191
+    wikipedia: https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9C%A1
+  - agent_name: Im, Pang
+    alias: 任埅
+    birthdate: 1640
+    deathdate: 1724
+    gutenberg_agent_id: '46190'
+    url: http://www.gutenberg.org/2009/agents/46190
+description: ''
+gutenberg_issued: '2016-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Korea'
+title: 'Korean Folk Tales
+
+  Imps, Ghosts and Faries'
+url: http://www.gutenberg.org/ebooks/51002
