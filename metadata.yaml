@@ -1,4 +1,5 @@
 _repo: Korean-Folk-Tales-Imps-Ghosts-and-Faries_51002
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Gale, James Scarth
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '46192'
     url: http://www.gutenberg.org/2009/agents/46192
     wikipedia: https://en.wikipedia.org/wiki/James_Scarth_Gale
+covers:
+- cover_type: archival
+  image_path: 51002-h/images/frontcover.jpg
 creator:
   authors:
   - agent_name: Yi, Yuk
@@ -23,6 +27,8 @@ creator:
     gutenberg_agent_id: '46190'
     url: http://www.gutenberg.org/2009/agents/46190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51002#Korean-Folk-Tales-Imps-Ghosts-and-Faries
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
 identifiers:
